@@ -5,9 +5,7 @@ An interactive, menu-driven Bash tool designed to streamline enabling Broadcom W
 Getting Broadcom Wi-Fi chipset controllers—specifically the **Broadcom Inc. BCM4360 802.11ac Dual Band Wireless Network Adapter**—working on Linux distributions can be notoriously difficult due to proprietary firmware requirements and kernel module conflicts. This project bundles the necessary driver firmware files alongside an automated interactive script, eliminating the need to manually copy firmware files or execute complex terminal commands.
 
 ---
-<!--
-YouTube video link coming here
--->
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VD_hIHcUDcw" target="_blank"><img src="http://img.youtube.com/vi/VD_hIHcUDcw/0.jpg" alt="Click to watch video on YouTube" width="240" height="180" border="10" /></a>
 ---
 ## Features
 
